@@ -13,7 +13,7 @@
 
 最近也收到许多微博私信的鼓励和更正题目信息，后面会经常更新题目和答案到[github博客](http://markyun.github.io/)。希望前端er达到既能使用也会表达，对理论知识有自己的理解。可根据下面的知识点一个一个去进阶学习，形成自己的职业技能链。
 
-**面试有几点需注意：(来源[寒冬winter](http://weibo.com/wintercn "微博：寒冬winter") 老师，github:@wintercn)**
+**面试有几点需注意：(来源[寒冬winter](http://weibo.com/wintercn "微博：寒冬winter") 老师，github:@wintercn)** 
 
 1. 面试题目： 根据你的等级和职位的变化，入门级到专家级，广度和深度都会有所增加。
 
@@ -27,13 +27,13 @@
 
 
 
-**前端开发知识点：**
+**前端开发知识点：** 
 
 	HTML&CSS：
 		对Web标准的理解、浏览器内核差异、兼容性、hack、CSS基本功：布局、盒子模型、选择器优先级、
 		HTML5、CSS3、Flexbox
 
-	JavaScript：
+	JavaScript： 
         数据类型、运算、对象、Function、继承、闭包、作用域、原型链、事件、RegExp、JSON、Ajax、
 		DOM、BOM、内存泄漏、跨域、异步装载、模板引擎、前端MVC、路由、模块化、Canvas、ECMAScript 6、Nodejs
 
@@ -62,7 +62,7 @@
 
 		9、HTML与XHTML —— 二者有什么区别，你觉得应该使用哪一个并说出理由。
 
-		10、JSON —— 作用、用途、设计结构。
+		10、JSON —— 作用、用途、设计结构。 
 
 
 
